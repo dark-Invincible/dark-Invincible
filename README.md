@@ -24,30 +24,7 @@
 
 ---
 
-# 💫 About Me
-
-```yaml
-name: Gaurav Shukla
-username: dark-Invincible
-
-education:
-  - B.Tech Computer Science Student
-
-about:
-  - I enjoy building software that is practical, useful, and solves real problems.
-  - Interested in full stack development, backend systems, cloud technologies, and IoT.
   
-
-currently:
-  - Working on real-world development projects
-  - Learning scalable backend and cloud systems
-  - Exploring modern development workflows
-  - Looking for internship opportunities to learn and grow
-
- 
-```
-
----
 
 <div align="center">
 
